@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tommaso Mancuso
 - 👀 I’m interested in programming everything; games more than other things.
 - 🌱 This profile is just for personal and academic projects.
-- 💞️ I’m looking to collaborate on an RTS Fantasy Game, like LOTR BFME.
+- 💞️ I’m looking to collaborate on an RTS, MMORPG or Mobile Games.
 - 📫 You can reach me by pulling a request or email me at tm07081997@gmail.com.
 
 <!---
