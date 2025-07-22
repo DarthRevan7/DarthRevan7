@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tommaso Mancuso
 - 👀 I’m interested in programming everything; games more than other things.
-- 🌱 This profile is just for personal and academic projects.
+- 🌱 This profile is for personal, academic projects and more.
 - 💞️ I’m looking to collaborate on an RTS, MMORPG or Mobile Games.
 - 📫 You can reach me by pulling a request or email me at tm07081997@gmail.com.
 
