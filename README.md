@@ -16,7 +16,7 @@ Sviluppato per il corso di Mobile Applications Development @ PoliTo. Focus su ar
 
 **[🥽 FlightXP_VR – Flight Simulator](https://github.com/DarthRevan7/FlightXP_VR/new/master?filename=README.md)**
 
-Simulatore immersivo sviluppato in Unity e C#. Consente di costruire il proprio velivolo, personalizzarlo e scegliere tra giocare un tutorial di volo, un'esperienza di volo libero oppure una target practice.
+Simulatore immersivo sviluppato in Unity e C# per il corso di Realtà Virtuale @ PoliTo. Consente di costruire il proprio velivolo, personalizzarlo e scegliere tra giocare un tutorial di volo, un'esperienza di volo libero oppure una target practice.
 
 **[🥊 RipHit – Gaming AI & Beat 'Em Up](https://github.com/DarthRevan7/---/new/master?filename=README.md)**
 
