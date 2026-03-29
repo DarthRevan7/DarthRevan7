@@ -4,8 +4,8 @@
 
 > **Nota di Trasparenza:** Questo progetto è un prototipo funzionale di facciata (Frontend-only). Il codice sorgente è mantenuto privato per proteggere la proprietà intellettuale.
 
-### 🎯 Obiettivo del Progetto
-Dimostrare la potenza della **prototipazione rapida AI-driven**. Il Cacciatore è stato progettato per testare flussi di lavoro multi-tenant complessi e UX nel settore hospitality in tempi record.
+### 🎯 Genesi ed Obiettivo del Progetto
+Nato come esperimento pratico per supportare la gestione di un potenziale B&B di famiglia. L'obiettivo era diimostrare la potenza della **prototipazione rapida AI-driven**. Il Cacciatore è stato progettato per testare flussi di lavoro multi-tenant complessi e UX nel settore hospitality in tempi record.
 
 ### 🏗️ Architettura e Logica
 - **Frontend Multi-tenant:** Implementazione di dashboard differenziate tramite routing dinamico.
