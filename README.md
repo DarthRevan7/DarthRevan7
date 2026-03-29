@@ -17,8 +17,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarthRevan7&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarthRevan7&theme=2077)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarthRevan7&theme=2077)
 
 ### 🚀 AI-First Workflow
