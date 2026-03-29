@@ -15,43 +15,11 @@
   </a>
 </p>
 
-<!-- Check This Stat. If it does not work, delete it. -->
-<p align="center">
-  <img width="100%" src="https://metrics.lecoq.io/DarthRevan7?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%&theme=dark" />
-</p>
-<!--  -->
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=DarthRevan7&repo=Voyago&theme=radical&show_owner=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=DarthRevan7&repo=FlightXP_VR&theme=radical&show_owner=true" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarthRevan7&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&cache_seconds=1800" />
-</p>
-
-### 📊 Coding Skills Overview
-
-- **Kotlin / Java** (Backend & Android)
-![Progress](https://progress-bar.dev/85/?title=Mastery&color=6f42c1)
-
-- **TypeScript / Next.js** (AI-First Web)
-![Progress](https://progress-bar.dev/70/?title=Mastery&color=3178c6)
-
-- **C# / Unity** (VR & Spatial Computing)
-![Progress](https://progress-bar.dev/50/?title=Mastery&color=178600)
-
-### 🛠️ Core Stack Breakdown
-
-| Tecnologia | Livello | Focus |
-| :--- | :--- | :--- |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-80%25-blueviolet) | **Advanced** | Distributed Systems & Spring Boot |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-70%25-blue) | **Intermediate** | Next.js & AI Integrations |
-| ![C#](https://img.shields.io/badge/C%23-50%25-green) | **Intermediate** | Unity & VR Development |
-| ![Docker](https://img.shields.io/badge/Docker-60%25-informational) | **Advanced** | Containerization & Deploy |
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarthRevan7&theme=2077)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarthRevan7&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarthRevan7&theme=2077)
 
 ### 🚀 AI-First Workflow
 Credo nell'uso dell'intelligenza artificiale per abbattere i tempi di sviluppo. Il mio stack include strumenti di aumento della produttività basati su AI per passare dall'idea al deploy in tempi record.
