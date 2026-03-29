@@ -15,10 +15,16 @@
   </a>
 </p>
 
+<!-- Check This Stat. If it does not work, delete it. -->
 <p align="center">
   <img width="100%" src="https://metrics.lecoq.io/DarthRevan7?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%&theme=dark" />
 </p>
+<!--  -->
 
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=DarthRevan7&repo=Voyago&theme=radical&show_owner=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=DarthRevan7&repo=FlightXP_VR&theme=radical&show_owner=true" />
+</p>
 
 
 ### 🚀 AI-First Workflow
