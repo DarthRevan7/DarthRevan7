@@ -7,6 +7,15 @@
 - **[Il Cacciatore](https://ilcacciatore.vercel.app/):** Un prototipo SaaS multi-tenant per l'hospitality realizzato con logica AI-first (Next.js + Supabase).
 - **Sistemi Distribuiti:** Architetture a microservizi resilienti basate su Spring Boot, Kotlin e Apache Kafka.
 
+<p align="center">
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DarthRevan7&show_icons=true&theme=radical&hide_border=true" />
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarthRevan7&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+
+
 ### 🚀 AI-First Workflow
 Credo nell'uso dell'intelligenza artificiale per abbattere i tempi di sviluppo. Il mio stack include strumenti di aumento della produttività basati su AI per passare dall'idea al deploy in tempi record.
 
