@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarthRevan7&layout=compact&theme=radical&hide=html,css&hide_border=true&cache_seconds=1800" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarthRevan7&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&cache_seconds=1800" />
 </p>
 
 ### 📊 Coding Skills Overview
@@ -41,6 +41,17 @@
 - **C# / Unity** (VR & Spatial Computing)
 ![Progress](https://progress-bar.dev/50/?title=Mastery&color=178600)
 
+### 🛠️ Core Stack Breakdown
+
+| Tecnologia | Livello | Focus |
+| :--- | :--- | :--- |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-80%25-blueviolet) | **Advanced** | Distributed Systems & Spring Boot |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-70%25-blue) | **Intermediate** | Next.js & AI Integrations |
+| ![C#](https://img.shields.io/badge/C%23-50%25-green) | **Intermediate** | Unity & VR Development |
+| ![Docker](https://img.shields.io/badge/Docker-60%25-informational) | **Advanced** | Containerization & Deploy |
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarthRevan7&theme=2077)
 
 ### 🚀 AI-First Workflow
 Credo nell'uso dell'intelligenza artificiale per abbattere i tempi di sviluppo. Il mio stack include strumenti di aumento della produttività basati su AI per passare dall'idea al deploy in tempi record.
@@ -55,3 +66,6 @@ Credo nell'uso dell'intelligenza artificiale per abbattere i tempi di sviluppo. 
 
 I love memories and I like to remember where everything came from.
 
+
+
+[def]: http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarthRevan7&theme=2077
