@@ -7,6 +7,22 @@
 - **[🏹 Foresteria - Il Cacciatore (AI-First SaaS)](./IL-CACCIATORE.md):** Un prototipo SaaS multi-tenant per l'hospitality realizzato con logica AI-first (Next.js + Supabase). [Demo Live](https://ilcacciatore.vercel.app/)
 - **Sistemi Distribuiti:** Architetture a microservizi resilienti basate su Spring Boot, Kotlin e Apache Kafka.
 
+### 🚀 Featured Projects (Academic & Creative Lab)
+Questi progetti rappresentano il mio percorso accademico al Politecnico di Torino e le mie sperimentazioni in ambito Mobile, VR e Automazione.
+
+**[🌍 Voyago – Android Travel Management](https://github.com/DarthRevan7/Voyago/blob/main/README.md)**
+
+Sviluppato per il corso di Mobile Applications Development @ PoliTo. Focus su architettura MVVM, Kotlin e persistenza dati in tempo reale con Firebase Firestore.
+
+**[🥽 FlightXP_VR – Flight Simulator](https://github.com/DarthRevan7/FlightXP_VR/new/master?filename=README.md)**
+
+Simulatore immersivo sviluppato in Unity e C#. Consente di costruire il proprio velivolo, personalizzarlo e scegliere tra giocare un tutorial di volo, un'esperienza di volo libero oppure una target practice.
+
+**[🥊 RipHit – Gaming AI & Beat 'Em Up](https://github.com/DarthRevan7/---/new/master?filename=README.md)**
+
+
+
+
 ### 🛠️ My Digital Arsenal
 
 <p align="center">
