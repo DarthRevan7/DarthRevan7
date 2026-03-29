@@ -26,6 +26,21 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=DarthRevan7&repo=FlightXP_VR&theme=radical&show_owner=true" />
 </p>
 
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarthRevan7&layout=compact&theme=radical&hide=html,css&hide_border=true&cache_seconds=1800" />
+</p>
+
+### 📊 Coding Skills Overview
+
+- **Kotlin / Java** (Backend & Android)
+![Progress](https://progress-bar.dev/85/?title=Mastery&color=6f42c1)
+
+- **TypeScript / Next.js** (AI-First Web)
+![Progress](https://progress-bar.dev/70/?title=Mastery&color=3178c6)
+
+- **C# / Unity** (VR & Spatial Computing)
+![Progress](https://progress-bar.dev/50/?title=Mastery&color=178600)
+
 
 ### 🚀 AI-First Workflow
 Credo nell'uso dell'intelligenza artificiale per abbattere i tempi di sviluppo. Il mio stack include strumenti di aumento della produttività basati su AI per passare dall'idea al deploy in tempi record.
