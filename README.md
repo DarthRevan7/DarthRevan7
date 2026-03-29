@@ -4,7 +4,7 @@
 
 ### 🛠️ Cosa sto costruendo
 - **Founding Engineer @ Vendor Connect:** Progettazione di architetture core per il fintech (O2C flussi) e integrazione di strumenti per l'automazione finanziaria.
-- **[Il Cacciatore](https://ilcacciatore.vercel.app/):** Un prototipo SaaS multi-tenant per l'hospitality realizzato con logica AI-first (Next.js + Supabase).
+- **[🏹 Foresteria - Il Cacciatore (AI-First SaaS)](./IL-CACCIATORE.md):** Un prototipo SaaS multi-tenant per l'hospitality realizzato con logica AI-first (Next.js + Supabase). [Demo Live](https://ilcacciatore.vercel.app/)
 - **Sistemi Distribuiti:** Architetture a microservizi resilienti basate su Spring Boot, Kotlin e Apache Kafka.
 
 <p align="center">
