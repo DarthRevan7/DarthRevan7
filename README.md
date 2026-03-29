@@ -7,11 +7,16 @@
 - **[🏹 Foresteria - Il Cacciatore (AI-First SaaS)](./IL-CACCIATORE.md):** Un prototipo SaaS multi-tenant per l'hospitality realizzato con logica AI-first (Next.js + Supabase). [Demo Live](https://ilcacciatore.vercel.app/)
 - **Sistemi Distribuiti:** Architetture a microservizi resilienti basate su Spring Boot, Kotlin e Apache Kafka.
 
+### 🛠️ My Digital Arsenal
+
 <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,supabase,unity,cs,git,vscode,kotlin,spring,nodejs,kafka,react,docker,blender,linux" />
+  </a>
+</p>
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DarthRevan7&show_icons=true&theme=radical&hide_border=true" />
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarthRevan7&layout=compact&theme=radical&hide_border=true" />
+<p align="center">
+  <img width="100%" src="https://metrics.lecoq.io/DarthRevan7?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%&theme=dark" />
 </p>
 
 
