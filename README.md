@@ -18,7 +18,7 @@ Sviluppato per il corso di Mobile Applications Development @ PoliTo. Focus su ar
 
 Simulatore immersivo sviluppato in Unity e C# per il corso di Realtà Virtuale @ PoliTo. Consente di costruire il proprio velivolo, personalizzarlo e scegliere tra giocare un tutorial di volo, un'esperienza di volo libero oppure una target practice.
 
-**[🥊 RipHit – Gaming AI & Beat 'Em Up](https://github.com/DarthRevan7/---/new/master?filename=README.md)**
+**[🥊 RIPHIT – An AI-Driven Beat 'em Up Odyssey](https://github.com/DarthRevan7/ripeat/blob/main/README.md)**
 
 
 
