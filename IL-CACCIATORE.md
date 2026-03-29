@@ -18,19 +18,61 @@ Dimostrare la potenza della **prototipazione rapida AI-driven**. Il Cacciatore �
 | **Admin** | admin@foresteria.it | demo123 |
 | **User** | user@foresteria.it | demo123 |
 
-### 📸 Visual Showcase ↔️
+### 📸 Visual Showcase & UX Flow
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="./assets/cacciatore/admin-dashboard.jpg" width="500" alt="Dashboard"></td>
-      <td><img src="./assets/cacciatore/admin-prenotazioni.jpg" width="500" alt="Prenotazioni"></td>
-      <td><img src="./assets/cacciatore/admin-ospiti.jpg" width="500" alt="Ospiti"></td>
-      <td><img src="./assets/cacciatore/admin-pulizie.jpg" width="500" alt="Pulizie"></td>
-      <td><img src="./assets/cacciatore/admin-reminder.jpg" width="500" alt="Reminder"></td>
-      <td><img src="./assets/cacciatore/user-notifiche.jpg" width="500" alt="Notifiche"></td>
-      <td><img src="./assets/cacciatore/user-prenotazioni.jpg" width="500" alt="User Prenotazioni"></td>
-    </tr>
-  </table>
-  <p><i>Clicca e trascina o usa la barra per esplorare l'ecosistema di Foresteria Il Cacciatore</i></p>
-</div>
+> **Nota:** Gli screenshot mostrano l'interfaccia ad alta fedeltà generata per validare i flussi di lavoro.
+
+#### 🔐 Admin Experience: Pieno Controllo Operativo
+
+**1. La Dashboard Centrale**
+Un hub visivo per monitorare lo stato delle stanze, gli arrivi imminenti e le metriche chiave a colpo d'occhio.
+<p align="center">
+  <img src="./assets/cacciatore/admin-dashboard.jpg" width="90%" alt="Admin Dashboard">
+</p>
+
+---
+
+**2. Gestione Prenotazioni (Calendario)**
+Vista dettagliata del tabellone prenotazioni, ottimizzata per la manipolazione rapida delle assegnazioni stanze.
+<p align="center">
+  <img src="./assets/cacciatore/admin-prenotazioni.jpg" width="90%" alt="Gestione Calendario">
+</p>
+
+---
+
+**3. Database Ospiti & Anagrafiche**
+Archivio centralizzato per la gestione dei profili clienti e dello storico soggiorni.
+<p align="center">
+  <img src="./assets/cacciatore/admin-ospiti.jpg" width="90%" alt="Database Ospiti">
+</p>
+
+---
+
+**4. Coordinamento Pulizie & Manutenzione**
+Modulo operativo per l'assegnazione dei task al personale del piano e il monitoraggio dello stato delle camere.
+<p align="center">
+  <img src="./assets/cacciatore/admin-pulizie.jpg" width="90%" alt="Task Pulizie">
+</p>
+<p align="center">
+  <img src="./assets/cacciatore/admin-reminder.jpg" width="90%" alt="Reminder Operativi">
+</p>
+
+---
+
+#### 👤 User Experience: Semplice e Intuitiva per l'Ospite
+
+> **Focus Mobile-First:** L'interfaccia utente è stata progettata per garantire un'esperienza fluida e reattiva sui dispositivi mobile, il canale principale di interazione per gli ospiti.
+
+**1. Area Notifiche & Stato Soggiorno**
+Il punto di contatto principale per l'ospite, dove riceve aggiornamenti in tempo reale sul check-in, i servizi e le comunicazioni della Foresteria.
+<p align="center">
+  <img src="./assets/cacciatore/user-notifiche.jpg" width="60%" alt="User Notifiche Mobile">
+</p>
+
+---
+
+**2. Gestione Prenotazioni & Storico**
+Un'interfaccia pulita e razionale che permette all'ospite di visualizzare i dettagli dei propri soggiorni passati e futuri.
+<p align="center">
+  <img src="./assets/cacciatore/user-prenotazioni.jpg" width="60%" alt="User Prenotazioni Mobile">
+</p>
