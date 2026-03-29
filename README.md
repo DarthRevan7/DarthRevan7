@@ -10,16 +10,17 @@
 ### 🚀 Featured Projects (Academic & Creative Lab)
 Questi progetti rappresentano il mio percorso accademico al Politecnico di Torino e le mie sperimentazioni in ambito Mobile, VR e Automazione.
 
-**[🌍 Voyago – Android Travel Management](https://github.com/DarthRevan7/Voyago/blob/main/README.md)**
+## **[🌍 Voyago – Android Travel Management](https://github.com/DarthRevan7/Voyago/blob/main/README.md)**
 
 Sviluppato per il corso di Mobile Applications Development @ PoliTo. Focus su architettura MVVM, Kotlin e persistenza dati in tempo reale con Firebase Firestore.
 
-**[🥽 FlightXP_VR – Flight Simulator](https://github.com/DarthRevan7/FlightXP_VR/new/master?filename=README.md)**
+## **[🥽 FlightXP_VR – Flight Simulator](https://github.com/DarthRevan7/FlightXP_VR/new/master?filename=README.md)**
 
 Simulatore immersivo sviluppato in Unity e C# per il corso di Realtà Virtuale @ PoliTo. Consente di costruire il proprio velivolo, personalizzarlo e scegliere tra giocare un tutorial di volo, un'esperienza di volo libero oppure una target practice.
 
-**[🥊 RIPHIT – An AI-Driven Beat 'em Up Odyssey](https://github.com/DarthRevan7/ripeat/blob/main/README.md)**
+## **[🥊 RIPHIT – An AI-Driven Beat 'em Up Odyssey](https://github.com/DarthRevan7/ripeat/blob/main/README.md)**
 
+Un picchiaduro sperimentale in **Unity** che integra **Google Gemini AI** come meccanica di gioco core. La "Morte" valuta i dialoghi del giocatore per deciderne il destino, supportata da un sistema di combattimento e un motore ad eventi sviluppati integralmente.
 
 
 
