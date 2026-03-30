@@ -43,6 +43,8 @@ Credo nell'uso dell'intelligenza artificiale per abbattere i tempi di sviluppo. 
   </a>
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DarthRevan7&theme=default)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarthRevan7&theme=2077)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarthRevan7&theme=2077)
