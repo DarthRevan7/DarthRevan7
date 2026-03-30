@@ -5,7 +5,7 @@
 ### 🌐 **[Vai alla Repo](https://github.com/DarthRevan7/foresteria-il-cacciatore/blob/main/README.md)**
 
 
-> **Nota di Trasparenza:** Questo progetto è un prototipo funzionale di facciata (Frontend-only). Il codice sorgente è mantenuto privato per proteggere la proprietà intellettuale.
+> **Nota di Trasparenza:** Questo progetto è un prototipo funzionale di facciata (Frontend-only).
 
 ### 🎯 Genesi ed Obiettivo del Progetto
 Nato come esperimento pratico per supportare la gestione di un potenziale B&B di famiglia. L'obiettivo era diimostrare la potenza della **prototipazione rapida AI-driven**. Il Cacciatore è stato progettato per testare flussi di lavoro multi-tenant complessi e UX nel settore hospitality in tempi record.
