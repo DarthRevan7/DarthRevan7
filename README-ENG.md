@@ -38,10 +38,18 @@ I believe in leveraging Artificial Intelligence to slash development time. My st
   </a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DarthRevan7&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarthRevan7&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarthRevan7&theme=2077)
+<table border="0">
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DarthRevan7&theme=2077" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarthRevan7&theme=2077" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarthRevan7&theme=2077" />
+    </td>
+  </tr>
+</table>
 
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/tommaso-mancuso-ba9949225/) | tm07081997@gmail.com
