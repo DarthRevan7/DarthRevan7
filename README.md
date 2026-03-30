@@ -16,7 +16,7 @@ Questi progetti rappresentano il mio percorso accademico al Politecnico di Torin
 
 Sviluppato per il corso di Mobile Applications Development @ PoliTo. Focus su architettura MVVM, Kotlin e persistenza dati in tempo reale con Firebase Firestore.
 
-### **[🥽 FlightXP_VR – Flight Simulator](https://github.com/DarthRevan7/FlightXP_VR/new/master?filename=README.md)**
+### **[🥽 FlightXP_VR – Flight Simulator](https://github.com/DarthRevan7/FlightXP_VR/blob/master/README.md)**
 
 Simulatore immersivo sviluppato in Unity e C# per il corso di Realtà Virtuale @ PoliTo. Consente di costruire il proprio velivolo, personalizzarlo e scegliere tra giocare un tutorial di volo, un'esperienza di volo libero oppure una target practice.
 
