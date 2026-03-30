@@ -43,11 +43,19 @@ Credo nell'uso dell'intelligenza artificiale per abbattere i tempi di sviluppo. 
   </a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DarthRevan7&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarthRevan7&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarthRevan7&theme=2077)
+<table border="0">
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DarthRevan7&theme=2077" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarthRevan7&theme=2077" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarthRevan7&theme=2077" />
+    </td>
+  </tr>
+</table>
 
 📫 Contattami: [LinkedIn](https://www.linkedin.com/in/tommaso-mancuso-ba9949225/) | tm07081997@gmail.com
 
