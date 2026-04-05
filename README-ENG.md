@@ -1,6 +1,6 @@
 # 👋 Welcome to Tommaso Mancuso's GitHub Profile
 
-### **Full Stack Engineer & AI Solutions Builder & MSc Student @ PoliTo** specializing in rapid prototyping and scalable distributed systems.
+### **Full Stack Engineer & AI Solutions Passionate & MSc Student @ PoliTo** specializing in rapid prototyping and scalable distributed systems.
 
 ### 🛠️ What I'm Building
 - **Founding Engineer @ Vendor Connect:** Designing core architectures for fintech (O2C workflows) and integrating financial automation tools.
