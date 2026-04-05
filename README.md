@@ -1,6 +1,6 @@
 # 👋 Benvenuto sul profilo GitHub di Tommaso Mancuso.
 
-### **Full Stack Engineer & AI Solutions Builder & MSc Student @ PoliTo** specializzato in prototipazione rapida e sistemi distribuiti scalabili.
+### **Full Stack Engineer & AI Solutions Passionate & MSc Student @ PoliTo** specializzato in prototipazione rapida e sistemi distribuiti scalabili.
 
 # [🌍 ENGLISH VERSION HERE 🌍](https://github.com/DarthRevan7/DarthRevan7/blob/main/README-ENG.md)
 
