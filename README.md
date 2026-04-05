@@ -2,7 +2,7 @@
 
 ### **Full Stack Engineer & AI Solutions Passionate & MSc Student @ PoliTo.**
 
-##Ingegnere Informatico orientato al prodotto, specializzato in prototipazione rapida tramite AI-assisted coding ed appassionato allo
+#### Ingegnere Informatico orientato al prodotto, specializzato in prototipazione rapida tramite AI-assisted coding ed appassionato allo
 sviluppo di soluzioni AI-integrated per startup e sistemi SaaS scalabili.
 
 
