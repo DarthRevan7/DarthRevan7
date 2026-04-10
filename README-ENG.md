@@ -4,7 +4,7 @@
 
 #### Software Engineer with product-oriented pipeline, specialized in rapid prototyping with AI-assisted coding and passionate about AI-integrated Solutions for startups and scalable and distributed SaaS systems.
 
-# [ENGLISH RESUME](https://github.com/DarthRevan7/DarthRevan7/blob/main/resume/eng/Resume%20-%20Tommaso%20Mancuso.pdf)
+# [📑 ENGLISH RESUME 📑](https://github.com/DarthRevan7/DarthRevan7/blob/main/resume/eng/Resume%20-%20Tommaso%20Mancuso.pdf)
 
 ### 🛠️ What I'm Building
 - **Founding Engineer @ Vendor Connect:** Designing core architectures for fintech (O2C workflows) and integrating financial automation tools.
