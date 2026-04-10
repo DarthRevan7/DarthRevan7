@@ -1,13 +1,15 @@
 # 👋 Benvenuto sul profilo GitHub di Tommaso Mancuso.
 
-### **Full Stack Engineer & AI Solutions Passionate & MSc Student @ PoliTo.**
+### **Full Stack Engineer & AI Solutions Enthusiast & MSc Student @ PoliTo.**
+
+# [🌍 ENGLISH VERSION HERE 🌍](https://github.com/DarthRevan7/DarthRevan7/blob/main/README-ENG.md)
 
 #### Ingegnere Informatico orientato al prodotto, specializzato in prototipazione rapida tramite AI-assisted coding ed appassionato allo sviluppo di soluzioni AI-integrated per startup e sistemi SaaS scalabili.
 
 ## [📑 CV ITALIANO 📑](https://github.com/DarthRevan7/DarthRevan7/blob/main/resume/it/CV%20-%20Tommaso%20Mancuso.pdf)
 ## [📑 ENGLISH RESUME 📑](https://github.com/DarthRevan7/DarthRevan7/blob/main/resume/eng/Resume%20-%20Tommaso%20Mancuso.pdf)
 
-# [🌍 ENGLISH VERSION HERE 🌍](https://github.com/DarthRevan7/DarthRevan7/blob/main/README-ENG.md)
+
 
 ### 🛠️ Cosa sto costruendo
 - **Founding Engineer @ Vendor Connect:** Progettazione di architetture core per il fintech (O2C flussi) e integrazione di strumenti per l'automazione finanziaria.

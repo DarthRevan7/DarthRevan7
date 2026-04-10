@@ -1,6 +1,6 @@
 # 👋 Welcome to Tommaso Mancuso's GitHub Profile
 
-### **Full Stack Engineer & AI Solutions Passionate & MSc Student @ PoliTo.** 
+### **Full Stack Engineer & AI Solutions Enthusiast & MSc Student @ PoliTo.** 
 
 #### Software Engineer with product-oriented pipeline, specialized in rapid prototyping with AI-assisted coding and passionate about AI-integrated Solutions for startups and scalable and distributed SaaS systems.
 
