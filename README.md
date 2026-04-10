@@ -2,9 +2,10 @@
 
 ### **Full Stack Engineer & AI Solutions Passionate & MSc Student @ PoliTo.**
 
-#### Ingegnere Informatico orientato al prodotto, specializzato in prototipazione rapida tramite AI-assisted coding ed appassionato allo
-sviluppo di soluzioni AI-integrated per startup e sistemi SaaS scalabili.
+#### Ingegnere Informatico orientato al prodotto, specializzato in prototipazione rapida tramite AI-assisted coding ed appassionato allo sviluppo di soluzioni AI-integrated per startup e sistemi SaaS scalabili.
 
+# [CV ITALIANO](https://github.com/DarthRevan7/DarthRevan7/blob/main/resume/it/CV%20-%20Tommaso%20Mancuso.pdf)
+# [ENGLISH RESUME](https://github.com/DarthRevan7/DarthRevan7/blob/main/resume/eng/Resume%20-%20Tommaso%20Mancuso.pdf)
 
 # [🌍 ENGLISH VERSION HERE 🌍](https://github.com/DarthRevan7/DarthRevan7/blob/main/README-ENG.md)
 
