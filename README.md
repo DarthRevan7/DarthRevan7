@@ -14,10 +14,27 @@
 ### 🛠️ Cosa sto costruendo
 - **Founding Engineer @ Vendor Connect:** Progettazione di architetture core per il fintech (O2C flussi) e integrazione di strumenti per l'automazione finanziaria.
 - **[🏹 Foresteria - Il Cacciatore (AI-First SaaS)](./IL-CACCIATORE.md):** Un prototipo SaaS multi-tenant per l'hospitality realizzato con logica AI-first (Next.js + Supabase). [Demo Live](https://ilcacciatore.vercel.app/)
-- **Sistemi Distribuiti:** Architetture a microservizi resilienti basate su Spring Boot, Kotlin e Apache Kafka.
 
 ### 🚀 Featured Projects (Academic & Creative Lab)
 Questi progetti rappresentano il mio percorso accademico al Politecnico di Torino e le mie sperimentazioni in ambito Mobile, VR e Automazione.
+
+### **[📂 Web App 2 – Company Document Portal](https://github.com/DarthRevan7/Company-Document-Portal)**
+Una piattaforma di microservizi distribuiti per la gestione intelligente dei documenti, basata su un modello **Zero-Trust** (Keycloak) e architettura **Event-Driven** (Apache Kafka).
+* **Tech Stack:** Kotlin, Spring Boot, PostgreSQL + **pgvector**, Apache Kafka, MinIO, OpenTelemetry, Langtrace.
+* **Core Pillars:** 
+  * **AI Integration & RAG:** Arricchimento automatico dei metadati dei file tramite LLM (Gemini 2.5 Flash) e modulo "Chat with your Data" con recupero contestuale basato sui permessi dell'utente.
+  * **Transactional Outbox Pattern:** Garanzia di consistenza dei dati tra il database relazionale e il broker Kafka tramite Debezium.
+  * **Full-Stack Observability:** Monitoraggio centralizzato delle metriche, dei log distribuiti e dei flussi AI tramite Prometheus, Loki, Grafana e Langtrace.
+  * **Robust Testing Suite:** Strategia di testing resiliente (Idempotenza, M2M Security, Kafka Consumer) implementata via JUnit 5 e **Testcontainers** (Docker).
+
+### **[📝 Web App 1 – "Last Ride" (SPA Web Game)](https://github.com/DarthRevan7/WA1-Ultima-Corsa)**
+Un'applicazione web full-stack in tempo reale incentrata su un sistema di gioco a tappe (Metro Route Planner) basato su una solida architettura client-server e gestione dinamica dello stato.
+* **Tech Stack:** React, Vite, Node.js, Express, SQLite, Passport.js, Bootstrap.
+* **Core Pillars & Architecture:**
+  * **State Machine Client-Side:** Gestione del flusso di gioco strutturata tramite una macchina a stati finiti in React che coordina in tempo reale le fasi di Configurazione (Setup), Pianificazione (Plan), ed Esecuzione asincrona (Stage Runner).
+  * **Algoritmi e Validazione Real-Time:** Integrazione di logiche di instradamento su grafi metropolitani; il server valida l'integrità del percorso inviato dal client, calcola i punteggi in modo sicuro ed elabora eventi casuali con impatto sul game-state.
+  * **Asynchronous UX & Timers:** Utilizzo di React Hooks avanzati per la gestione del countdown di 90 secondi (con auto-submit a tempo scaduto) e rendering sequenziale ed asincrono delle tappe del viaggio.
+  * **Session Management:** Autenticazione sicura dei profili utenti e persistenza dei record globali (Leaderboard) tramite Passport.js e sessioni memorizzate su database relazionale SQLite.
 
 ### **[🌍 Voyago – Android Travel Management](https://github.com/DarthRevan7/Voyago/blob/main/README.md)**
 
