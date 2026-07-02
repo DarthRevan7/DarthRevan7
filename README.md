@@ -5,6 +5,7 @@
 # [🌍 ENGLISH VERSION HERE 🌍](https://github.com/DarthRevan7/DarthRevan7/blob/main/README-ENG.md)
 
 #### Ingegnere Informatico orientato al prodotto, specializzato in prototipazione rapida tramite AI-assisted coding ed appassionato allo sviluppo di soluzioni AI-integrated per startup e sistemi SaaS scalabili.
+📫 Contattami: [LinkedIn](https://www.linkedin.com/in/tommaso-mancuso-ba9949225/) | tm07081997@gmail.com
 
 ## [📑 CV ITALIANO 📑](https://github.com/DarthRevan7/DarthRevan7/blob/main/resume/it/CV%20-%20Tommaso%20Mancuso.pdf)
 ## [📑 ENGLISH RESUME 📑](https://github.com/DarthRevan7/DarthRevan7/blob/main/resume/eng/Resume%20-%20Tommaso%20Mancuso.pdf)
@@ -80,9 +81,5 @@ Credo nell'uso dell'intelligenza artificiale per abbattere i tempi di sviluppo. 
     </td>
   </tr>
 </table>
-
-📫 Contattami: [LinkedIn](https://www.linkedin.com/in/tommaso-mancuso-ba9949225/) | tm07081997@gmail.com
-
-
 
 [def]: http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarthRevan7&theme=2077
