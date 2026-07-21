@@ -19,7 +19,7 @@
 ### 🚀 Featured Projects (Academic & Creative Lab)
 Questi progetti rappresentano il mio percorso accademico al Politecnico di Torino e le mie sperimentazioni in ambito Mobile, VR e Automazione.
 
-### **[📂 Web App 2 – Company Document Portal](https://github.com/DarthRevan7/Company-Document-Portal)**
+### **[📂 Web App 2 – Company Document Portal](https://github.com/DarthRevan7/company-document-portal)**
 Una piattaforma di microservizi distribuiti per la gestione intelligente dei documenti, basata su un modello **Zero-Trust** (Keycloak) e architettura **Event-Driven** (Apache Kafka).
 * **Tech Stack:** Kotlin, Spring Boot, PostgreSQL + **pgvector**, Apache Kafka, MinIO, OpenTelemetry, Langtrace.
 * **Core Pillars:** 
@@ -28,7 +28,7 @@ Una piattaforma di microservizi distribuiti per la gestione intelligente dei doc
   * **Full-Stack Observability:** Monitoraggio centralizzato delle metriche, dei log distribuiti e dei flussi AI tramite Prometheus, Loki, Grafana e Langtrace.
   * **Robust Testing Suite:** Strategia di testing resiliente (Idempotenza, M2M Security, Kafka Consumer) implementata via JUnit 5 e **Testcontainers** (Docker).
 
-### **[📝 Web App 1 – "Last Ride" (SPA Web Game)](https://github.com/DarthRevan7/WA1-Ultima-Corsa)**
+### **[📝 Web App 1 – "Last Ride" (SPA Web Game)](https://github.com/DarthRevan7/last-ride)**
 Un'applicazione web full-stack in tempo reale incentrata su un sistema di gioco a tappe (Metro Route Planner) basato su una solida architettura client-server e gestione dinamica dello stato.
 * **Tech Stack:** React, Vite, Node.js, Express, SQLite, Passport.js, Bootstrap.
 * **Core Pillars & Architecture:**
