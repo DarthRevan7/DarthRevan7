@@ -13,7 +13,7 @@
 
 
 ### 🛠️ Cosa sto costruendo
-- **Founding Engineer @ Vendor Connect:** Progettazione di architetture core per il fintech (O2C flussi) e integrazione di strumenti per l'automazione finanziaria.
+- **[🌍 Demo Mediterranea (Browser-Only Full-Stack Demo)](https://github.com/DarthRevan7/demo-med)**: Vetrina e gestionale di un'azienda agricola biologica che gira interamente nel browser — nessun database, nessuna API, nessuna variabile d'ambiente. Flusso ordini completo (inviato → approvato → pagato → spedito → ricevuto), multi-ruolo senza password. [Demo Live](https://demo-med.vercel.app/)
 - **[🏹 Foresteria - Il Cacciatore (AI-First SaaS)](./IL-CACCIATORE.md):** Un prototipo SaaS multi-tenant per l'hospitality realizzato con logica AI-first (Next.js + Supabase). [Demo Live](https://ilcacciatore.vercel.app/)
 
 ### 🚀 Featured Projects (Academic & Creative Lab)
