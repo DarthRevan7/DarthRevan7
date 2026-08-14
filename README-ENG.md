@@ -9,7 +9,7 @@
 # [📑 ENGLISH RESUME 📑](https://github.com/DarthRevan7/DarthRevan7/blob/main/resume/eng/Resume%20-%20Tommaso%20Mancuso.pdf)
 
 ### 🛠️ What I'm Building
-- **Founding Engineer @ Vendor Connect:** Designing core architectures for fintech (O2C workflows) and integrating financial automation tools.
+- **[🌍 Demo Mediterranea (Browser-Only Full-Stack Demo)](https://github.com/DarthRevan7/demo-med)**: Storefront and back-office for a fictional organic farm that runs entirely in the browser — no database, no API, no environment variables. Full order flow (submitted → approved → paid → shipped → received), multi-role login with no passwords. [Live Demo](https://demo-med.vercel.app/)
 - **[🏹 Foresteria - Il Cacciatore (AI-First SaaS)](./IL-CACCIATORE.md):** An AI-first multi-tenant hospitality SaaS prototype built with Next.js and Supabase. [Live Demo](https://ilcacciatore.vercel.app/)
 
 ### 🚀 Featured Projects (Academic & Creative Lab)
